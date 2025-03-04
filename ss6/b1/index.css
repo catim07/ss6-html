@@ -1,0 +1,18 @@
+.a1{
+    background-color: rgb(52, 63, 210);;
+    color: white; 
+    text-align: center;
+}
+.a2{
+    align-items: center; 
+    display: flex; 
+    justify-content: center; 
+    margin-top: 20px; 
+    gap: 20px;
+}
+.a3{
+    text-align: center; 
+    background-color: gainsboro; 
+    padding: 1px;
+    margin-top: 20px;
+}
